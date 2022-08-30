@@ -7,7 +7,7 @@ I'm a Web Development student from Brazil, currently learning React with Redux
 ## <img src='https://media4.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif?cid=ecf05e47titjn7zgwqfuqw951hurz0fq9xj3630z78pkdbbq&rid=giphy.gif&ct=s' alt='Typing cat' width="35" height="auto" />   Languages and tools
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="45" height="45"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="45" height="45"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML" width="45" height="45"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="45" height="45"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="45" height="45"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest " width="45" height="45"/>&nbsp;
