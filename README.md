@@ -3,7 +3,7 @@
 I'm a Fullstack Web Development student from Brazil, currently learning Back-end with Node.js (and loving it!).
 
 <div align="left">
-<p>:mailbox: <i>ppapinia@gmail.com</i></p>
+<p> :mailbox: <i>ppapinia@gmail.com</i></p>
 <a href='https://www.linkedin.com/in/pedro-papini-de-araujo/'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' /></a> 
 </div>
 
