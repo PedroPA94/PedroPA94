@@ -1,8 +1,11 @@
 ## Hey there! 👋
 
-I'm a Web Development student from Brazil, currently learning React with Redux
+I'm a Fullstack Web Development student from Brazil, currently learning Back-end with Node.js (and loving it!).
 
-<a href='https://www.linkedin.com/in/pedro-papini-de-araujo/'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' /></a>
+<div align="left">
+<p>:mailbox: <i>ppapinia@gmail.com</i></p>
+<a href='https://www.linkedin.com/in/pedro-papini-de-araujo/'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' /></a> 
+</div>
 
 ## <img src='https://media4.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif?cid=ecf05e47titjn7zgwqfuqw951hurz0fq9xj3630z78pkdbbq&rid=giphy.gif&ct=s' alt='Typing cat' width="35" height="auto" />   Languages and tools
 <table width="320px">
@@ -10,11 +13,11 @@ I'm a Web Development student from Brazil, currently learning React with Redux
         <tr valign="top">
             <td width="80px" align="center">
               <span>Git</span><br>
-              <img height="32px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+              <img height="32px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg">
             </td>
             <td width="80px" align="center">
               <span>HTML</span><br>
-              <img height="32" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
+              <img height="32" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg">
             </td>
             <td width="80px" align="center">
               <span>CSS</span><br>
@@ -22,7 +25,7 @@ I'm a Web Development student from Brazil, currently learning React with Redux
             </td>
             <td width="80px" align="center">
               <span>Javascript</span><br>
-              <img height="32px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+              <img height="32px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
             </td>
             <td width="80px" align="center">
               <span>Jest</span><br>
@@ -35,6 +38,18 @@ I'm a Web Development student from Brazil, currently learning React with Redux
             <td width="80px" align="center">
               <span>Redux</span><br>
               <img height="32px" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg">
+            </td>
+            <td width="80px" align="center">
+              <span>Docker</span><br>
+              <img height="32px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg">
+            </td>
+            <td width="80px" align="center">
+              <span>MySQL</span><br>
+              <img height="32px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg">
+            </td>
+            <td width="80px" align="center">
+              <span>Node.js</span><br>
+              <img height="32px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg">
             </td>
         </tr>
     </tbody>
