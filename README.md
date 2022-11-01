@@ -35,6 +35,9 @@ I'm a Fullstack Web Development student from Brazil, currently studying Back-end
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroPA94&theme=gruvbox&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+
+![](https://komarev.com/ghpvc/?username=PedroPA94&color=d4a12d)
+
 <!--
 <a href='https://www.codewars.com/users/PedroPA94'><img src='https://www.codewars.com/users/PedroPA94/badges/micro' alt='Codewars badge'/></a>
 -->
@@ -86,6 +89,8 @@ I'm a Fullstack Web Development student from Brazil, currently studying Back-end
         </tr>
     </tbody>
 </table>
+
+
 -->
 
 
