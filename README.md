@@ -1,10 +1,15 @@
 ## Hey there! 👋
 
-I'm a Fullstack Web Development student from Brazil, currently learning Back-end with Node.js (and loving it!).
+I'm a Fullstack Web Development student from Brazil, currently studying Back-end development (and loving it!).
+
+📓 Learning: Typescript  
+📖 Reading: The Fellowship of the Ring - J.R.R. Tolkien  
+🎮 Playing: Surviving Mars (PC)  
 
 <div align="left">
 <p> :mailbox: <i>ppapinia@gmail.com</i></p>
 <a href='https://www.linkedin.com/in/pedro-papini-de-araujo/'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' /></a> 
+<a href='https://pedropa94.github.io/'><img src='https://img.shields.io/badge/-Portfolio-orange?style=for-the-badge&logoColor=white' alt='Git' /></a>
 </div>
 
 ## <img src='https://media4.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif?cid=ecf05e47titjn7zgwqfuqw951hurz0fq9xj3630z78pkdbbq&rid=giphy.gif&ct=s' alt='Typing cat' width="35" height="auto" />   Languages and tools
@@ -21,6 +26,8 @@ I'm a Fullstack Web Development student from Brazil, currently learning Back-end
     <img src='https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white' alt='Docker' />
     <img src='https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white' alt='MySQL' />
     <img src='https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white' alt='Node.js' />
+    <img src='https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB' alt='Express.js' />
+    <img src='https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white' alt='Sequelize' />
 </div>
 
 ## <img src='https://media3.giphy.com/media/cjExA4kq4KVFtkMLUH/giphy.gif?cid=790b761170de37c2882a8ccd2a4b2994cf616d28b5e5b55d&rid=giphy.gif&ct=s' alt='Jake the dog' width="30" height="auto" />  Stats
