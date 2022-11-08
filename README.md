@@ -28,6 +28,7 @@ I'm a Fullstack Web Development student from Brazil, currently studying Back-end
     <img src='https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white' alt='Node.js' />
     <img src='https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB' alt='Express.js' />
     <img src='https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white' alt='Sequelize' />
+    <img src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white' alt='Typescript' />
 </div>
 
 ## <img src='https://media3.giphy.com/media/cjExA4kq4KVFtkMLUH/giphy.gif?cid=790b761170de37c2882a8ccd2a4b2994cf616d28b5e5b55d&rid=giphy.gif&ct=s' alt='Jake the dog' width="30" height="auto" />  Stats
