@@ -3,7 +3,7 @@
 I'm a Fullstack Web Development student from Brazil, currently studying Back-end development (and loving it!).
 
 📓 Learning: Object-Oriented Programming with Typescript  
-📖 Reading: The president and the frog - Carolina de Robertis
+📖 Reading: The president and the frog - Carolina de Robertis  
 🎮 Playing: XCOM: Enemy Unknown (PC)  
 
 <div align="left">
