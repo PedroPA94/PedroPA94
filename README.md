@@ -2,9 +2,9 @@
 
 I'm a Fullstack Web Development student from Brazil, currently studying Back-end development (and loving it!).
 
-📓 Learning: Typescript  
-📖 Reading: The Fellowship of the Ring - J.R.R. Tolkien  
-🎮 Playing: Surviving Mars (PC)  
+📓 Learning: Object-Oriented Programming with Typescript  
+📖 Reading: The president and the frog - Carolina de Robertis
+🎮 Playing: XCOM: Enemy Unknown (PC)  
 
 <div align="left">
 <p> :mailbox: <i>ppapinia@gmail.com</i></p>
