@@ -1,6 +1,6 @@
 ## Hey there! 👋
 
-I'm a Fullstack Web Development student from Brazil, currently studying Back-end development (and loving it!).
+I'm a Back-end developer from Brazil, currently studying Full Stack web development [@betrybe](https://github.com/betrybe).
 
 📓 Learning: Object-Oriented Programming with Typescript  
 📖 Reading: The president and the frog - Carolina de Robertis  
