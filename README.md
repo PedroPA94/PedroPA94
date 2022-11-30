@@ -1,6 +1,6 @@
 ## Hey there! 👋
 
-I'm a Back-end developer from Brazil, currently studying Fullstack web development [@betrybe](https://github.com/betrybe).
+I'm a Fullstack developer from Brazil studying [@betrybe](https://github.com/betrybe).
 
 📓 Learning: Object-Oriented Programming with Typescript  
 📖 Reading: The president and the frog - Carolina de Robertis  
@@ -24,6 +24,7 @@ I'm a Back-end developer from Brazil, currently studying Fullstack web developme
     <img src='https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white' alt='Redux' />
     <img src='https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white' alt='Testing Library' />
     <img src='https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white' alt='Docker' />
+        <img src='https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white' alt='MongoDb' />
     <img src='https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white' alt='MySQL' />
     <img src='https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white' alt='Node.js' />
     <img src='https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB' alt='Express.js' />
