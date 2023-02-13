@@ -2,9 +2,9 @@
 
 I'm a Fullstack developer from Brazil studying [@betrybe](https://github.com/betrybe).
 
-📓 Learning: Object-Oriented Programming with Typescript  
-📖 Reading: The president and the frog - Carolina de Robertis  
-🎮 Playing: XCOM: Enemy Unknown (PC)  
+📓 Learning: Python  
+📖 Reading: - 
+🎮 Playing: Borderlands (PS3)
 
 <div align="left">
 <p> :mailbox: <i>ppapinia@gmail.com</i></p>
