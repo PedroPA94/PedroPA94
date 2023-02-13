@@ -3,7 +3,7 @@
 I'm a Fullstack developer from Brazil studying [@betrybe](https://github.com/betrybe).
 
 📓 Learning: Python  
-📖 Reading: - 
+📖 Reading: -  
 🎮 Playing: Borderlands (PS3)
 
 <div align="left">
