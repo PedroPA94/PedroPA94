@@ -24,12 +24,15 @@ I'm a Fullstack developer from Brazil studying [@betrybe](https://github.com/bet
     <img src='https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white' alt='Redux' />
     <img src='https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white' alt='Testing Library' />
     <img src='https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white' alt='Docker' />
-        <img src='https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white' alt='MongoDb' />
+    <img src='https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white' alt='MongoDb' />
     <img src='https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white' alt='MySQL' />
     <img src='https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white' alt='Node.js' />
     <img src='https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB' alt='Express.js' />
     <img src='https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white' alt='Sequelize' />
     <img src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white' alt='Typescript' />
+    <img src='https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white' alt='Mocha' />
+    <img src='https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white' alt='Chai' />
+    <img src='https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white' alt='Python' />
 </div>
 
 ## <img src='https://media3.giphy.com/media/cjExA4kq4KVFtkMLUH/giphy.gif?cid=790b761170de37c2882a8ccd2a4b2994cf616d28b5e5b55d&rid=giphy.gif&ct=s' alt='Jake the dog' width="30" height="auto" />  Stats
