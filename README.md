@@ -1,10 +1,10 @@
 ## Hey there! 👋
 
-I'm a Fullstack developer from Brazil studying [@betrybe](https://github.com/betrybe).
+I'm a Backend developer from Brazil with Fullstack experience. I work as a freelance WordPress developer and Python programmer, specializing in web scraping and automation scripts.
 
-📓 Learning: Python  
-📖 Reading: -  
-🎮 Playing: Borderlands (PS3)
+📓 Learning: Google IT Support (Coursera)\
+📖 Reading: Structure and Interpretation of Computer Programs (Abelson and Sussman)\
+🎮 Playing: Tyranny (PC)
 
 <div align="left">
 <p> :mailbox: <i>ppapinia@gmail.com</i></p>
@@ -33,6 +33,8 @@ I'm a Fullstack developer from Brazil studying [@betrybe](https://github.com/bet
     <img src='https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white' alt='Mocha' />
     <img src='https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white' alt='Chai' />
     <img src='https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white' alt='Python' />
+    <img src='https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white' alt='Python' />
+    <img src='https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white' alt='WordPress' />
 </div>
 
 ## <img src='https://media3.giphy.com/media/cjExA4kq4KVFtkMLUH/giphy.gif?cid=790b761170de37c2882a8ccd2a4b2994cf616d28b5e5b55d&rid=giphy.gif&ct=s' alt='Jake the dog' width="30" height="auto" />  Stats
