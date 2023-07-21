@@ -2,7 +2,7 @@
 
 I'm a Backend developer from Brazil with Fullstack experience. I work as a freelance WordPress developer and Python programmer, specializing in web scraping and automation scripts.
 
-📓 Learning: Google IT Support (Coursera)\
+📓 Learning: Java\
 📖 Reading: Structure and Interpretation of Computer Programs (Abelson and Sussman)\
 🎮 Playing: Tyranny (PC)
 
