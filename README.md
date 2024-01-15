@@ -1,8 +1,8 @@
 ## Hey there! 👋
 
-I'm a Fullstack developer from Brazil working as a Trainee Systems Analyst in Banco do Brasil. 
+I'm a Fullstack developer from Brazil working as a Trainee Systems Analyst. 
 
-I'm mostly programming Frontend with Angular and Backend with Java, but I've also worked with React, Node.js with Express and automation scripts with Python, mainly with Selenium.
+On my day-to-day, I mostly work with Angular and Java, but I also have experience with React, Node.js with Express and automation scripts with Python, mainly with Selenium.
 
 I love trying to solve difficult problems and I'm always learning something new.
 
