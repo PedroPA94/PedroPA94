@@ -33,7 +33,7 @@ I love trying to solve difficult problems and I'm always learning something new.
 
 <div>
     <img src='https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white' alt='Node.js' />
-    <img src='https://camo.githubusercontent.com/bc36950d6c166f5696b1125829b4ee56992aa40c4bf0b6f1f5d262795d5192d7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3331413846463f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d626c61636b' alt='React' />
+    <img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white' alt='React' />
     <img src='https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white' alt='Python' />
     <img src='https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white' alt='MongoDb' />
     <img src='https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white' alt='MySQL' />
