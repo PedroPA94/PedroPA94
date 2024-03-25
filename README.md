@@ -1,13 +1,13 @@
 ## Hey there! 👋
 
-I'm a Fullstack developer from Brazil working as a Trainee Systems Analyst. 
+I'm a Fullstack developer from Brazil working as a Systems Analyst. 
 
 On my day-to-day, I mostly work with Angular and Java, but I also have experience with React, Node.js with Express and automation scripts with Python, mainly with Selenium.
 
 I love trying to solve difficult problems and I'm always learning something new.
 
-📓 Learning: Angular\
-📖 Reading: Learning Angular 4th ed. (Bampakos & Deeleman)
+📓 Studying: RxJS and Reactive Programming with Angular
+<!-- 📖 Reading: Learning Angular 4th ed. (Bampakos & Deeleman) -->
 <!-- 🎮 Playing: Tyranny (PC) -->
 
 <!-- <div align="left"> -->
@@ -19,7 +19,8 @@ I love trying to solve difficult problems and I'm always learning something new.
 
 ### Main
 <div>
-    <img src='https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white' alt='Angular' />
+    <img src='https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white' alt='Angular' /> 
+    <img src='https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white' alt='RxJS' /> 
     <img src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white' alt='Typescript' />
     <img src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black' alt='Javascript' />
     <img src='https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white' alt='Java' />
