@@ -6,7 +6,7 @@ On my day-to-day, I mostly work with Angular and Java, but I also have experienc
 
 I love trying to solve difficult problems and I'm always learning something new.
 
-📓 Studying: RxJS and Reactive Programming with Angular
+<!-- 📓 Studying: RxJS and Reactive Programming with Angular -->
 <!-- 📖 Reading: Learning Angular 4th ed. (Bampakos & Deeleman) -->
 <!-- 🎮 Playing: Tyranny (PC) -->
 
