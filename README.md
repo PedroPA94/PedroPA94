@@ -2,7 +2,7 @@
 
 I'm a Fullstack developer from Brazil working as a Systems Analyst. 
 
-On my day-to-day, I mostly work with Angular and Java, but I also have experience with React, Node.js with Express and automation scripts with Python, mainly with Selenium.
+On my day-to-day, I mostly work with Angular and Java, but I also have experience with React, Node.js with Express, React Native and automation scripts with Python (Selenium).
 
 I love trying to solve difficult problems and I'm always learning something new.
 
@@ -33,6 +33,7 @@ I love trying to solve difficult problems and I'm always learning something new.
 ### Others
 
 <div>
+    <img src='https://img.shields.io/badge/React_Native-58c4dc?style=for-the-badge&logo=react&logoColor=white' alt='React Native' />
     <img src='https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white' alt='Node.js' />
     <img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white' alt='React' />
     <img src='https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white' alt='Python' />
@@ -47,10 +48,11 @@ I love trying to solve difficult problems and I'm always learning something new.
 <!-- ## <img src='https://media3.giphy.com/media/cjExA4kq4KVFtkMLUH/giphy.gif?cid=790b761170de37c2882a8ccd2a4b2994cf616d28b5e5b55d&rid=giphy.gif&ct=s' alt='Jake the dog' width="30" height="auto" />  Stats
  [![PedroPA94's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroPA94&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats) -->
 
-\
-\
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroPA94&theme=gruvbox&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroPA94&theme=gruvbox&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<br /> 
+<br /> 
 
 ![](https://komarev.com/ghpvc/?username=PedroPA94&color=d4a12d)
 
