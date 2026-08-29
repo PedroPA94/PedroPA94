@@ -34,8 +34,9 @@ I love trying to solve difficult problems and I'm always learning something new.
 
 <div>
     <img src='https://img.shields.io/badge/React_Native-58c4dc?style=for-the-badge&logo=react&logoColor=white' alt='React Native' />
-    <img src='https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white' alt='Node.js' />
     <img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white' alt='React' />
+    <img src='https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white' alt='Node.js' />
+    <img src='https://img.shields.io/badge/Next.js-%230a0a0a?style=for-the-badge&logo=nextdotjs&logoColor=fff' alt='Next.js' />
     <img src='https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white' alt='Python' />
     <img src='https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white' alt='MongoDb' />
     <img src='https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white' alt='MySQL' />
